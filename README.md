@@ -1,2 +1,2 @@
 # tracker
-This will help to osint  inforamtion from the user input.
+This will help to osint  information from the user input.
